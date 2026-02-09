@@ -12,7 +12,7 @@ Repository for EE-322 class
 **Bold**
 *Italic*
 
-'code'
+`code`
 
 1. Item 1
 2. Item 2

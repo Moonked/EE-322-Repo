@@ -24,6 +24,5 @@ Repository for EE-322 class
 ---
 Horizontal Rule
 
-[Link Text]((https://youtube.com))
-
+https://github.com/Moonked/EE-322-Repo/blob/3b6c5ba5e08d2523dc42e552d8ee3e68bcefc6da/README.md
 ![Image](a.jpg)
